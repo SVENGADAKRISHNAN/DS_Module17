@@ -11,7 +11,7 @@ To write a printQueue C function of the given graph that is to be traversed in t
 
 2.If not empty, print "Queue contains ".
 
-3.Initialize a loop variable i to q->front.
+3.Initialize a loop variable i to q->front. 
 
 4.Use a for loop to iterate from q->front to q->rear, printing each item in q->items[i].
 
